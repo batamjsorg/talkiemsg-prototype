@@ -1,2 +1,3 @@
-# talkiemsg-prototype
-Prototype of Batam Talkie Messenger
+# Talkie Messenger App
+
+**Prototype of Batam Talkie Messenger
