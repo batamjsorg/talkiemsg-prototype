@@ -7,4 +7,4 @@
 Contributors:
 
 
-1. **Akhmad Fauzi Hasibuan** [![github][github-logo]][fauzzi-github] [![linkedin][linkedin-logo]][fauzzi-in]
+1. [**Akhmad Fauzi Hasibuan**](https://github.com/fauzzi) ![GitHub Logo](/images/github-logo-16.png)  [LinkedIn](https://www.linkedin.com/in/fauzzi/) ![LinkedId Logo](/images/linkedin-16.png)
